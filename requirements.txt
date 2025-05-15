@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+vllm
